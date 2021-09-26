@@ -1,0 +1,42 @@
+<footer class="site-footer">
+
+    <div class="wrapper">
+  
+      <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
+  
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-1">
+          <ul class="contact-list">
+            <li>
+              {% if site.author %}
+                {{ site.author | escape }}
+              {% else %}
+                {{ site.title | escape }}
+              {% endif %}
+            </li>
+            
+            {% if site.email %}
+              <li><a rel="me" href="mailto:{{ site.email }}"><svg class="svg-icon grey" viewbox="0 0 512 512"><use xlink:href="{{ '/assets/icons.svg#envelope' | relative_url }}"></use></svg> {{ site.email }}</a></li>
+            {% endif %}
+            {% if site.location %}
+              <li><svg class="svg-icon grey" viewbox="-64 0 512 512"><use xlink:href="{{ '/assets/icons.svg#location' | relative_url }}"></use></svg> {{ site.location }}</li>
+            {% endif %}
+          </ul>
+        </div>
+  
+        <div class="footer-col footer-col-2">
+            <div class="social-links">
+                {%- include social.html -%}
+              </div>
+        </div>
+  
+        {% comment %}
+        <div class="footer-col footer-col-3">
+          <p>{{ site.description | escape }}</p>
+        </div>
+        {% endcomment %}
+      </div>
+  
+    </div>
+  
+  </footer>

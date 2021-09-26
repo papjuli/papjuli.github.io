@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+//@import "";
+
+.site-header {
+    border-top-color: rgb(23, 86, 169);
+    border-bottom-color: rgb(153, 186, 228);
+}
+
+.site-footer {
+    border-top-color: rgb(153, 186, 228);
+}
+
+.contact-list li {
+    margin-bottom: 0.5em;
+}
+
+.social-links li {
+    margin-bottom: 0.25em;
+}

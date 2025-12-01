@@ -6,5 +6,5 @@ authors: T. Király, J. Pap
 journal: 
 journal_link: 
 preprint_name: EGRES Technical Report no. 2012-18
-preprint_link: http://bolyai.cs.elte.hu/egres/www/tr-12-18.html
+preprint_link: https://egres.elte.hu/www/tr-12-18.html
 ---

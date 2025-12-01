@@ -6,5 +6,5 @@ authors: T. Király, J. Pap
 journal: Mathematics of Operations Research Vol. 33 Issue 2 (2008), pp 283-290
 journal_link: 
 preprint_name: EGRES Technical Report no. 2005-01
-preprint_link: http://www.cs.elte.hu/egres/www/tr-05-01.html
+preprint_link: https://egres.elte.hu/www/tr-05-01.html
 ---

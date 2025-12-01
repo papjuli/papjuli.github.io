@@ -6,5 +6,5 @@ authors: A. Bernáth, T. Király, E.R. Kovács, G. Mádi-Nagy, Gy. Pap, J. Pap, 
 journal: Central European Journal of Operations Research, Volume 21 (2013), pp 699-712.
 journal_link: 
 preprint_name: EGRES Technical Report no. 2012-09
-preprint_link: http://bolyai.cs.elte.hu/egres/www/tr-12-09.html
+preprint_link: https://egres.elte.hu/www/tr-12-09.html
 ---

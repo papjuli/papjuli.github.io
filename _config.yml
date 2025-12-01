@@ -47,16 +47,16 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - _pages/publications.md
   - _pages/theses.md
-  - _pages/teaching.md
+  - _pages/publications.md
+  # - _pages/teaching.md
   - _pages/other.md
 
 collections:
   - writings
 
 include:
-    - _pages
+  - _pages
 
 
 # Exclude from processing.

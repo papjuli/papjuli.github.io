@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other
-permalink: other
+title: Projects
+permalink: /#projects
 ---
 
 ### Rubber band method
@@ -19,7 +19,7 @@ Try it [here](https://papjuli.github.io/rubber-band-method/)! Like the original,
 My [notes](https://rhinestone-garage-59a.notion.site/Computer-Vision-57f34e1a12e0469fa7bcc8cbed89affa) on the Computer Vision class by Marc Pollefeys, Siyu Tang and Fisher Yu at ETH Zürich.
 
 
-### Some links
+<!-- ### Some links
 
 #### Some math resources:
 - [Egres Open](http://lemon.cs.elte.hu/egres/open/Main_Page)
@@ -32,4 +32,4 @@ My [notes](https://rhinestone-garage-59a.notion.site/Computer-Vision-57f34e1a12e
 - [Coursera](https://www.coursera.org/)
 - [MIT Open Courseware](http://ocw.mit.edu/courses/)
 - [Computer science circles](http://cscircles.cemc.uwaterloo.ca/)
-- [Project Euler](http://projecteuler.net/)
+- [Project Euler](http://projecteuler.net/) -->

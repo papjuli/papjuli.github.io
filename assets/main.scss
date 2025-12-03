@@ -4,13 +4,27 @@
 @import "{{ site.theme }}";
 //@import "";
 
+html {
+    scroll-padding-top: 5em;
+}
+
 .site-header {
     border-top-color: rgb(23, 86, 169);
     border-bottom-color: rgb(153, 186, 228);
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 1000;
 }
 
 .site-footer {
     border-top-color: rgb(153, 186, 228);
+    position: sticky;
+    bottom: 0;
+    background-color: white;
+    z-index: 1000;
+    padding-top: 1em;
+    padding-bottom: 0em;
 }
 
 .contact-list li {
@@ -19,4 +33,10 @@
 
 .social-links li {
     margin-bottom: 0.25em;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid rgb(23, 86, 169);
+    margin: 2em 0;
 }

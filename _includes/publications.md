@@ -1,10 +1,6 @@
----
-layout: page
-title: Publications
-permalink: publications
----
+## Publications {#publications}
 
-## Published papers
+### Published papers
 
 <ul>
 {% for writing in site.writings reversed %}
@@ -25,7 +21,7 @@ permalink: publications
 {% endfor %}
 </ul>
 
-## Papers in preparation, Technical reports and Quick proofs
+### Papers in preparation, Technical reports and Quick proofs
 
 <ul>
 {% for writing in site.writings reversed %}
@@ -39,7 +35,7 @@ permalink: publications
 {% endfor %}
 </ul>
 
-## Other
+### Other
 
 <ul>
 {% for writing in site.writings reversed %}

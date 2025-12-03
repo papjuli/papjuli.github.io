@@ -24,3 +24,15 @@ My main research area was polyhedral combinatorics and complexity questions rega
 
 
 My [CV (pdf)]({{ site.baseurl }}/assets/Julia_Pap__CV_2025_06.pdf).
+
+---
+
+{% include projects.md %}
+
+---
+
+{% include theses.md %}
+
+---
+
+{% include publications.md %}

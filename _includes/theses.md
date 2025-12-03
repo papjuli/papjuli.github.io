@@ -1,10 +1,6 @@
----
-layout: page
-title: Theses
-permalink: theses
----
+## Theses {#theses}
 
-I completed both my Master's and PhD under the supervision of [András Frank](https://andrasfrank.web.elte.hu/) at Eötvös University, Budapest.
+I completed both my MSc in Mathematics and PhD in Applied Mathematics under the supervision of [András Frank](https://andrasfrank.web.elte.hu/) at Eötvös University, Budapest.
 
 ### PhD thesis:
 #### [Integrality, complexity and colourings in polyhedral combinatorics]({{ site.baseurl }}/assets/theses/julia_pap_phd_thesis.pdf)

@@ -14,7 +14,7 @@ Welcome to my home page!
 
 My name is Julia, I'm a software engineer with math background. I'm based in Zürich, Switzerland.
 
-Recently I completed the DAS in Data Science program at ETH, specializing in Image Analysis and Computer vision. 
+Recently I completed the [DAS in Data Science](https://inf.ethz.ch/continuing-education/das-datascience.html) program at ETH, specializing in Image Analysis and Computer vision. 
 Previously I worked at [Archilogic](https://www.archilogic.com/) as a machine learning engineer, working on automation projects related to digital interior spaces (check out some demos [here](https://www.linkedin.com/company/archilogic-ag/)).
 
 Earlier, I worked in the [Data Mining and Search Group](https://dms.sztaki.hu/en) of [MTA SZTAKI](http://www.sztaki.hu/?en) (Institute for Computer Science and Control of the Hungarian Academy of Sciences), starting to move into coding and data science.

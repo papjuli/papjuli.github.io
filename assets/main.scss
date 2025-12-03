@@ -39,3 +39,14 @@ hr {
     border-top: 1px solid rgb(23, 86, 169);
     margin: 2em 0;
 }
+
+@media (max-width: 768px) {
+    .youtube-embed-right {
+        float: none;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 1em;
+        max-width: 100%;
+        display: block;
+    }
+}

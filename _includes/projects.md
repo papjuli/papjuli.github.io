@@ -2,7 +2,7 @@
 
 ### Rubber band method
 
-<iframe style="max-width: 340px; width: 100%; aspect-ratio: 1; float: right; margin-left: 1em; margin-bottom: 1em; border: none;" src="https://www.youtube.com/embed/10Rbbw-uOQY?rel=0&autoplay=1" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-embed-right" style="max-width: 340px; width: 100%; aspect-ratio: 1; float: right; margin-left: 1em; margin-bottom: 1em; border: none;" src="https://www.youtube.com/embed/10Rbbw-uOQY?rel=0&autoplay=1" title="YouTube video player" allow="autoplay" allowfullscreen></iframe>
 
 I reimplemented a program by László Lovász that demonstrates several graph algorithms, all based on one core idea: imagining the graph as a physical object with rubber bands as edges. This concept can be used to design a variety of algorithms:
 - drawing planar graphs in the plane

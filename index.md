@@ -23,7 +23,7 @@ In the past I worked as a research assistant at [Egerváry Research Group (EGRES
 My main research area was polyhedral combinatorics and complexity questions regarding linear systems. I also worked on topics in combinatorial optimization, graph theory and game theory, such as stable matchings or games on multicommodity flows. I completed my PhD in 2013 under the supervision of [András Frank](https://andrasfrank.web.elte.hu/), you can find my thesis [here]({{ site.baseurl }}/theses).
 
 
-My [CV (pdf)]({{ site.baseurl }}/assets/Julia_Pap__CV_2025_06.pdf).
+My [CV (pdf)]({{ site.baseurl }}/assets/Julia_Pap__CV_2025_12.pdf).
 
 ---
 

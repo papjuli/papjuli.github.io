@@ -40,11 +40,11 @@ hr {
     margin: 2em 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 640px) {
     .youtube-embed-right {
-        float: none;
-        margin-left: 0;
-        margin-right: 0;
+        float: none !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
         margin-bottom: 1em;
         max-width: 100%;
         display: block;
